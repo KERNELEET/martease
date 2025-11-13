@@ -57,12 +57,10 @@ Item products[] = {
 ## 📁 Project Structure
 
 ```
-MartEase/
-├── main.cpp
-├── MartEase_Report.md
+martease/
+├── ConsoleApplication1
 ├── README.md
-└── data/
-    └── inventory.txt
+
 ```
 ---
 
